@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Koushik Bhattacharya
+- 👀 I’m interested in Data Analytics & Power BI Developer & Business Analyst
+- 🌱 I’m currently learning Python, R, ML
+- 📫 How to reach me bhattacharyakoushik283@gmail.com/ 7557831420
